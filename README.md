@@ -1,1 +1,1 @@
-# Zustand Sample 
+# Zustand Sample for react applications
